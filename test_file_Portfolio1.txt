@@ -1,0 +1,7 @@
+2026-03-17 10:01:05 INFO User 'admin' logged in from 192.168.1.1
+2026-03-17 10:02:15 ERROR Database connection timeout (Retry 1)
+2026-03-17 10:02:16 WARNING Disk space reaching 90% capacity
+2026-03-17 10:03:45 ERROR Database connection timeout (Retry 2)
+2026-03-17 10:04:10 INFO File 'report.pdf' uploaded successfully
+2026-03-17 10:05:00 ERROR Unauthorized access attempt from 10.0.0.55
+2026-03-17 10:06:12 INFO System heartbeat: OK
